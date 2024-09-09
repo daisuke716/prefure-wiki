@@ -1,0 +1,94 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.lifeSkills": {
+    "message": "lifeSkills",
+    "description": "The label for category lifeSkills in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.notes": {
+    "message": "notes",
+    "description": "The label for category notes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.languageLearning": {
+    "message": "languageLearning",
+    "description": "The label for category languageLearning in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Japanese": {
+    "message": "Japanese",
+    "description": "The label for category Japanese in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.English": {
+    "message": "English",
+    "description": "The label for category English in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.technology": {
+    "message": "technology",
+    "description": "The label for category technology in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.lifeSkillSidebar.category.Life Skills": {
+    "message": "Life Skills",
+    "description": "The label for category Life Skills in sidebar lifeSkillSidebar"
+  },
+  "sidebar.lifeSkillSidebar.category.Life Skills.link.generated-index.title": {
+    "message": "Life Skills",
+    "description": "The generated-index page title for category Life Skills in sidebar lifeSkillSidebar"
+  },
+  "sidebar.lifeSkillSidebar.category.Life Skills.link.generated-index.description": {
+    "message": "Life skills here.",
+    "description": "The generated-index page description for category Life Skills in sidebar lifeSkillSidebar"
+  },
+  "sidebar.technologySidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category Tutorial - Basics in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Tutorial - Basics in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar technologySidebar"
+  },
+  "sidebar.languageLearningSidebar2.category.Japanese": {
+    "message": "Japanese",
+    "description": "The label for category Japanese in sidebar languageLearningSidebar2"
+  },
+  "sidebar.languageLearningSidebar2.category.English": {
+    "message": "English",
+    "description": "The label for category English in sidebar languageLearningSidebar2"
+  },
+  "sidebar.languageLearningSidebar.category.Language Learning": {
+    "message": "Language Learning",
+    "description": "The label for category Language Learning in sidebar languageLearningSidebar"
+  },
+  "sidebar.languageLearningSidebar.category.Language Learning.link.generated-index.title": {
+    "message": "Language Learning",
+    "description": "The generated-index page title for category Language Learning in sidebar languageLearningSidebar"
+  },
+  "sidebar.languageLearningSidebar.category.Language Learning.link.generated-index.description": {
+    "message": "Language learning notes here.",
+    "description": "The generated-index page description for category Language Learning in sidebar languageLearningSidebar"
+  },
+  "sidebar.languageLearningSidebar.category.Japanese": {
+    "message": "Japanese",
+    "description": "The label for category Japanese in sidebar languageLearningSidebar"
+  },
+  "sidebar.languageLearningSidebar.category.English": {
+    "message": "English",
+    "description": "The label for category English in sidebar languageLearningSidebar"
+  }
+}

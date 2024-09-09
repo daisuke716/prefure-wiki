@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "PreFure",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "PreFure Wiki Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Technology": {
+    "message": "技術",
+    "description": "Navbar item with label Technology"
+  },
+  "item.label.Logs": {
+    "message": "ログ",
+    "description": "Navbar item with label Logs"
+  },
+  "item.label.Life Skills": {
+    "message": "生活スキル",
+    "description": "Navbar item with label Life Skills"
+  },
+  "item.label.Notes": {
+    "message": "ノート",
+    "description": "Navbar item with label Notes"
+  },
+  "item.label.Errors & Solutions": {
+    "message": "エラー & 解決策",
+    "description": "Navbar item with label Errors & Solutions"
+  },
+  "item.label.Language Learning": {
+    "message": "言語学習",
+    "description": "Navbar item with label Language Learning"
+  },
+  "item.label.Others": {
+    "message": "その他",
+    "description": "Navbar item with label Others"
+  }
+}
