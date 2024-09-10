@@ -12,13 +12,14 @@ const config: Config = {
   url: 'https://daisuke716.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-//  baseUrl: '/',
-  baseUrl: '/prefure-wiki/',
+  baseUrl: '/',
+//  baseUrl: '/prefure-wiki/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
+  // If you aren't using GitHub Pages, you don't need these.
   organizationName: 'daisuke716', // Usually your GitHub org/user name.
   projectName: 'prefure-wiki', // Usually your repo name.
+//  projectName: 'daisuke716.github.io',
 　trailingSlash: false, //GitHub Pages adds a trailing slash to Docusaurus URLs by default
 
   onBrokenLinks: 'throw',
