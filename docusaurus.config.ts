@@ -171,7 +171,7 @@ const config: Config = {
             ],
         },
         {
-          href: 'https://github.com/daisuke716',
+          href: 'https://github.com/daisuke716/prefure-wiki',
           position: 'right',
 		className: 'header-github-link',
   		html: '<i class="fa fa-github"></i>',
