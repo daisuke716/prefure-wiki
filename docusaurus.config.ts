@@ -9,11 +9,12 @@ const config: Config = {
   favicon: 'img/logo2.jpg',
   
   // Set the production url of your site here
-  url: 'https://daisuke716.github.io',
+//  url: 'https://daisuke716.github.io',
+	url: 'https://www.prefure.com'
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-//  baseUrl: '/',
-  baseUrl: '/prefure-wiki/',
+  baseUrl: '/',
+//  baseUrl: '/prefure-wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub Pages, you don't need these.
