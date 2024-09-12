@@ -38,6 +38,7 @@ function HomepageHeader() {
           </Link>
         </div>
 	   <CodeBlock
+	   	className="hp-codeBlock"
         	language="text"
         	showLineNumbers>
         {`Debug the world.🌎`}
