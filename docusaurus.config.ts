@@ -10,7 +10,7 @@ const config: Config = {
   
   // Set the production url of your site here
 //  url: 'https://daisuke716.github.io',
-	url: 'https://www.prefure.com',
+  url: 'https://www.prefure.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
