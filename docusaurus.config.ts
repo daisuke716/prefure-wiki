@@ -88,11 +88,16 @@ const config: Config = {
 //          onInlineAuthors: 'warn',
 //          onUntruncatedBlogPosts: 'warn',
 //        },
-		blog: false, //disable blog
+	   blog: false, //disable blog
 		
         theme: {
           customCss: './src/css/custom.css',
         },
+	   gtag: {
+          trackingID: 'G-X1J1K0844G',
+          anonymizeIP: true,
+        },
+        
       } satisfies Preset.Options,
     ],
   ],
