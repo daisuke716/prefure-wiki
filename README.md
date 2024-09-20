@@ -1,6 +1,9 @@
 # Prefure-wiki
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/).
+
+### Default links
+[Prefure](https://www.prefure.com)
 
 ### Backup links
 - https://wiki.prefure.com
