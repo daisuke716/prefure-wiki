@@ -70,7 +70,7 @@
 [data-theme='light'] .hero--primary{
   --ifm-hero-background-color: #0000;
   --ifm-hero-text-color: #000;
-  --ifm-container-width-xl: 1100px;
+  --ifm-container-width-xl: 1000px;
 }
 
 .button{

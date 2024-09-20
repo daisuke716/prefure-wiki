@@ -1,0 +1,1 @@
+# How to delete local branch which is not exist in remote repository
