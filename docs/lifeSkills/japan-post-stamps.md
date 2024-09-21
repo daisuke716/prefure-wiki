@@ -2,12 +2,13 @@
 sidebar_position: 1
 ---
 
-# JAPAN POST STAMPS
+# 封筒の切手代（郵送代）
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
-
-Docusaurus has **much more to offer**!
-
-
-## What's next?
+## 封筒や用紙、クリアファイルの重さ
+切手代（郵送料金）は「重量」によって決まります。まずは、封筒や用紙、クリアファイルの重さも併せて確認しております。
+|                      | 1枚あたりの目安の重さ                   |
+|----------------------|-----------------------------------------|
+| 封筒の重さ           | 【長形3号】約5～6g<br> 【角形2号】約15～18g |
+| 用紙の重さ           | 【A4】約4g<br> 【A3】約8g<br> 【B5】約3g        |
+| クリアファイルの重さ | 20～25g                                 |
 
