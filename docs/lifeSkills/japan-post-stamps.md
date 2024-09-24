@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # 封筒の切手代（郵送代）
 
+## 新デザインの普通切手と主な用途
+[2024年10月1日（火）の郵便料金の改正](https://www.post.japanpost.jp/service/2024fee_change/index.html)に伴い、普通切手のデザインも変更になります。
+新しい普通切手のデザインのテーマは「日本の文様」です。
+![新デザインと主な用途](https://www.post.japanpost.jp/kitte/collection/times/img/2024_09/img_item_01.gif)
 
 ## 封筒や用紙、クリアファイルの重さ
 切手代（郵送料金）は「重量」によって決まります。まずは、封筒や用紙、クリアファイルの重さも併せて確認しております。
@@ -21,6 +25,13 @@ sidebar_position: 1
 定型郵便物は、重量が`50g以内`、サイズが`（最大）長辺23.5cm×短辺12cm×厚さ1cm～（最小）長辺14cm×短辺9cm`のものとなります。   
 料金は全国一律`110円`です。 
 
+:::tip
+
+##### 旧料額との差額の貼り合わせ
+旧料額84円の「ウメ」には「鶯（うぐいす）」で新料金の110円。差額の貼り合わせは26円です。   
+![旧料額84円の「ウメ」には「鶯（うぐいす）」で新料金の110円](https://www.post.japanpost.jp/kitte/collection/times/img/2024_09/img_item_05.gif)
+
+:::
 :::tip
 
 一番シンプルな封筒サイズである長形3号封筒です。
@@ -64,7 +75,13 @@ A4を折らないでピッタリ封入できる封筒としてオーソドック
 |  通常はがき  |  85円   |
 |  往復はがき  |  170円   |
 
+:::tip
 
+##### 旧料額との差額の貼り合わせ
+旧料額63円の「ソメイヨシノ」には「桜葉」で新料金の85円。差額の貼り合わせは22円です。   
+![旧料額63円の「ソメイヨシノ」には「桜葉」で新料金の85円](https://www.post.japanpost.jp/kitte/collection/times/img/2024_09/img_item_04.gif)
+
+:::
 
 > ## 引用   
 > https://www.post.japanpost.jp/notification/pressrelease/2024/00_honsha/0613_01_02.pdf
