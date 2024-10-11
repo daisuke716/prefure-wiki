@@ -11,6 +11,10 @@
     "message": "技術",
     "description": "Navbar item with label Technology"
   },
+  "item.label.Projects": {
+    "message": "プロジェクト",
+    "description": "Navbar item with label Projects"
+  },
   "item.label.Logs": {
     "message": "ログ",
     "description": "Navbar item with label Logs"
