@@ -73,18 +73,19 @@
   --ifm-container-width-xl: 1000px;
 }
 
-/* .button{
+.button{
   display: inline-block;
   --ifm-button-background-color: #3aa675;
   --ifm-button-color: var(--ifm-footer-background-color);
   border: #3aa675;
   padding: 0.8rem 1.6rem;
+  margin: 1px 10px;
 }
 
 .button:hover{
 	--ifm-button-background-color: #3aa675;
 	opacity: 0.9;
-} */
+}
 
 [data-theme='dark'] .navbar{
 /*  --ifm-navbar-background-color: #282e37;*/
