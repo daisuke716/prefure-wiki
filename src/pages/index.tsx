@@ -38,13 +38,13 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="https://resume.prefure.com">
-            Personal Navigation
+            to="https://nav.prefure.com">
+            <Translate>Site Navigation</Translate>
           </Link>
           <Link
             className="button button--secondary button--lg"
             to="https://resume.prefure.com">
-            My resume
+            <Translate>My resume</Translate>
           </Link>
         </div>
 	   <CodeBlock
