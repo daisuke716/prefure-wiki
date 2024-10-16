@@ -36,6 +36,16 @@ function HomepageHeader() {
             to="docs/technology/Docusaurus Introduction/intro">
             <Translate>Start ✅</Translate>
           </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://nav.prefure.com">
+            <Translate>Site Navigation</Translate>
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://resume.prefure.com">
+            <Translate>My resume</Translate>
+          </Link>
         </div>
 	   <CodeBlock
 	   	className="hp-codeBlock"

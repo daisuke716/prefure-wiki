@@ -150,7 +150,6 @@ const config: Config = {
         	position: 'left',
         	type: 'docSidebar',
         	sidebarId: 'lifeSkillSidebar',
-//        	to: '/docs/life-skills',
         },
         {
           type: 'dropdown',
@@ -163,16 +162,14 @@ const config: Config = {
               sidebarId: 'languageLearningSidebar',
               
             },
-//            {
-//              label: 'Others',
-////              type: 'docSidebar',
-////              sidebarId: 'othersSidebar',
-//              to: '/docs/notes/others'
-//            },
            ],
         },
-//        {to: '/blog', label: 'Blog', position: 'left'},
-
+        {
+        	label: 'Projects',
+        	position: 'left',
+        	type: 'docSidebar',
+        	sidebarId: 'projectsSidebar',
+        },
 
 	   {
           type: 'localeDropdown',
