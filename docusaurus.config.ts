@@ -208,6 +208,22 @@ const config: Config = {
              label: 'Technology',
              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
            },
+           {
+            label: 'Logs',
+            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+          },
+          {
+            label: 'Life Skills',
+            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+          },
+          {
+            label: 'Notes',
+            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+          },
+          {
+            label: 'Projects',
+            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+          },
          ],
        },
        {
