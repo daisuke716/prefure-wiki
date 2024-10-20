@@ -188,9 +188,9 @@ const config: Config = {
         {
           href: 'https://github.com/daisuke716/prefure-wiki',
           position: 'right',
-		className: 'header-github-link',
-  		html: '<i class="fa fa-github"></i>',
-  		'aria-label': 'GitHub repository',
+		      className: 'header-github-link',
+  		    html: '<i class="fa fa-github"></i>',
+  		    'aria-label': 'GitHub repository',
         },
 //         {
 //          type: 'search',
@@ -250,9 +250,30 @@ const config: Config = {
              label: 'GitHub',
              href: 'https://github.com/facebook/docusaurus',
            },
+           {
+            html: `
+            <a href="https://pages.github.com/" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+              <img src="https://pages.github.com/images/logo.svg" alt="Deploys by GitHub Pages" width="169" height="34" />
+            </a>
+          `,
+          },
+           {
+            html: `
+            <a href="https://argos-ci.com" target="_blank" rel="noreferrer noopener" aria-label="Covered by Argos">
+              <img src="https://argos-ci.com/badge.svg" alt="Covered by Argos" width="133" height="20" />
+            </a>
+          `,
+          },
          ],
        },
      ],
+     logo: {
+      alt: 'Meta Open Source Logo',
+      src: '/img/meta_opensource_logo_negative.svg',
+      href: 'https://opensource.fb.com',
+      // width: 160,
+      // height: 51,
+    },
       copyright: `MIT Licensed | Copyright © 2019-${new Date().getFullYear()} Daisuke`,
     },
     prism: {
