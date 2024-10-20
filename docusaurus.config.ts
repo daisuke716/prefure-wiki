@@ -252,15 +252,22 @@ const config: Config = {
            },
            {
             html: `
-            <a href="https://pages.github.com/" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+            <a href="https://pages.github.com/" target="_blank" rel="noreferrer noopener" aria-label="Deploys by GitHub Pages">
               <img src="https://pages.github.com/images/logo.svg" alt="Deploys by GitHub Pages" width="169" height="34" />
             </a>
           `,
           },
           {
             html: `
-            <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+            <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by CloudFlare">
               <img src="/img/cloudflare.svg" alt="Deploys by CloudFlare" width="163" height="24"/>
+            </a>
+          `,
+          },
+          {
+            html: `
+            <a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+              <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" width="114" height="51" />
             </a>
           `,
           },
