@@ -257,6 +257,13 @@ const config: Config = {
             </a>
           `,
           },
+          {
+            html: `
+            <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+              <img src="/img/cloudflare.svg" alt="Deploys by CloudFlare" />
+            </a>
+          `,
+          },
            {
             html: `
             <a href="https://argos-ci.com" target="_blank" rel="noreferrer noopener" aria-label="Covered by Argos">
