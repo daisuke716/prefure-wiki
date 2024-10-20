@@ -122,8 +122,7 @@
 }
 
 .footer__links{
-  margin-top: 1rem;
-  margin-left:5rem;
+  margin: 1rem auto auto 5rem;
 }
 
 [data-theme='dark'] .DocSearch{
