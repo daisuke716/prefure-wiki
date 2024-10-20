@@ -266,6 +266,24 @@ const config: Config = {
           },
          ],
        },
+       {
+          title: 'Freind Links',
+          items: [
+            {
+              label: 'Power\'s Wiki',
+              href: 'https://wiki-power.com',
+            },
+            {
+              label: '时间笔记',
+              href: 'https://xiaomayo.cn',
+            },
+            {
+              label: 'BigZebra',
+              href: 'https://blog.bigzebra.cc',
+            },
+
+          ]
+       }
      ],
      logo: {
       alt: 'Meta Open Source Logo',
