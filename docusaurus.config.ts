@@ -260,7 +260,7 @@ const config: Config = {
           {
             html: `
             <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
-              <img src="/img/cloudflare.svg" alt="Deploys by CloudFlare" />
+              <img src="/img/cloudflare.svg" alt="Deploys by CloudFlare" width="163" height="24"/>
             </a>
           `,
           },
