@@ -210,7 +210,7 @@ const config: Config = {
           },
            {
             label: 'Logs',
-            href: '/docs/category/logs/errors--solustions', //
+            href: '/docs/category/errors--solustions', //
           },
           {
             label: 'Life Skills',
@@ -218,7 +218,7 @@ const config: Config = {
           },
           {
             label: 'Notes',
-            href: '/docs/category/notes/language-learning', //
+            href: '/docs/category/language-learning', //
           },
           {
             label: 'Projects',
