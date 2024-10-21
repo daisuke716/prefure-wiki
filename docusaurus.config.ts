@@ -252,6 +252,14 @@ const config: Config = {
            },
            {
             html: `
+            <a href="https://docusaurus.io" target="_blank" rel="noreferrer noopener" aria-label="Powered by Docusaurus">
+              <img src="/img/docusaurus.png" alt="Powered by Docusaurus" width="32" height="32" />
+            </a>
+            <b class="navbar__title text--truncate">  Docusaurus</b>
+          `,
+          },
+           {
+            html: `
             <a href="https://pages.github.com/" target="_blank" rel="noreferrer noopener" aria-label="Deploys by GitHub Pages">
               <img src="https://pages.github.com/images/logo.svg" alt="Deploys by GitHub Pages" width="169" height="34" />
             </a>
