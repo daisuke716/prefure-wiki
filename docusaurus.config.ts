@@ -267,7 +267,7 @@ const config: Config = {
            {
             html: `
             <a href="https://pages.github.com/" target="_blank" rel="noreferrer noopener" aria-label="Deploys by GitHub Pages">
-              <img src="https://pages.github.com/images/logo.svg" alt="Deploys by GitHub Pages" width="169" height="34" />
+              <img src="https://pages.github.com/images/logo.svg" alt="Deploys by GitHub Pages" width="152" height="30" />
             </a>
           `,
           },
