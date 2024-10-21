@@ -206,8 +206,9 @@ const config: Config = {
          items: [
            {
              label: 'Technology',
-             href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-           },
+            //  href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+           to:'technology',
+          },
            {
             label: 'Logs',
             href: 'https://stackoverflow.com/questions/tagged/docusaurus',
