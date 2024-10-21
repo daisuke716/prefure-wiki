@@ -253,9 +253,9 @@ const config: Config = {
            {
             html: `
             <a href="https://docusaurus.io" target="_blank" rel="noreferrer noopener" aria-label="Powered by Docusaurus">
-              <img src="/img/docusaurus.png" alt="Powered by Docusaurus" width="32" height="32" />
+              <img src="/img/docusaurus.png" alt="Powered by Docusaurus" width="32" height="32" style="height:2rem; margin-right:.5rem" />
+              <b class="navbar__title text--truncate">Docusaurus</b>
             </a>
-            <b class="navbar__title text--truncate">  Docusaurus</b>
           `,
           },
            {
