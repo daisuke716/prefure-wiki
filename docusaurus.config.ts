@@ -252,8 +252,14 @@ const config: Config = {
            },
            {
             html: `
-            <a href="https://docusaurus.io" target="_blank" rel="noreferrer noopener" aria-label="Powered by Docusaurus" style="color:var(--ifm-navbar-link-color); display:flex">
-              <img src="/img/docusaurus.png" alt="Powered by Docusaurus" width="32" height="32" style="height:2rem; margin-right:.5rem; display: in" />
+            <a href="https://docusaurus.io" 
+            target="_blank" 
+            rel="noreferrer noopener" 
+            aria-label="Powered by Docusaurus" 
+            style="color:var(--ifm-navbar-link-color); display:flex">
+              <img src="/img/docusaurus.png" alt="Powered by Docusaurus" 
+              width="32" height="32" 
+              style="height:2rem; margin-right:.5rem" />
               <b class="navbar__title text--truncate">Docusaurus</b>
             </a>
           `,
