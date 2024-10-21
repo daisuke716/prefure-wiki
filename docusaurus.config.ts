@@ -211,19 +211,19 @@ const config: Config = {
           },
            {
             label: 'Logs',
-            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+            href: '/docs/category/logs/error-solutions',
           },
           {
             label: 'Life Skills',
-            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+            href: '/docs/category/lifeSkills',
           },
           {
             label: 'Notes',
-            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+            href: '/docs/category/notes/languageLearning',
           },
           {
             label: 'Projects',
-            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+            href: '/docs/category/projects',
           },
          ],
        },
