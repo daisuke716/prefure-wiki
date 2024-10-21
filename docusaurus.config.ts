@@ -206,20 +206,19 @@ const config: Config = {
          items: [
            {
              label: 'Technology',
-            //  href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-           to:'/docs/category/technology',
+             to:'/docs/category/technology',
           },
            {
             label: 'Logs',
-            href: '/docs/category/logs/error-solutions',
+            href: '/docs/category/logs/errors--solustions', //
           },
           {
             label: 'Life Skills',
-            href: '/docs/category/lifeSkills',
+            href: '/docs/category/life-skills', //
           },
           {
             label: 'Notes',
-            href: '/docs/category/notes/languageLearning',
+            href: '/docs/category/notes/language-learning', //
           },
           {
             label: 'Projects',
