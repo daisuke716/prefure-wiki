@@ -248,7 +248,7 @@ const config: Config = {
          items: [
            {
              label: 'GitHub',
-             href: 'https://github.com/facebook/docusaurus',
+             href: 'https://github.com/daisuke716',
            },
            {
             html: `
@@ -256,7 +256,7 @@ const config: Config = {
             target="_blank" 
             rel="noreferrer noopener" 
             aria-label="Powered by Docusaurus" 
-            style="color:var(--ifm-navbar-link-color); display:flex">
+            style="color:var(--ifm-navbar-link-color); display:inline-flex">
               <img src="/img/docusaurus.png" alt="Powered by Docusaurus" 
               width="32" height="32" 
               style="height:2rem; margin-right:.5rem" />
