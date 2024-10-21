@@ -188,9 +188,9 @@ const config: Config = {
         {
           href: 'https://github.com/daisuke716/prefure-wiki',
           position: 'right',
-		className: 'header-github-link',
-  		html: '<i class="fa fa-github"></i>',
-  		'aria-label': 'GitHub repository',
+		      className: 'header-github-link',
+  		    html: '<i class="fa fa-github"></i>',
+  		    'aria-label': 'GitHub repository',
         },
 //         {
 //          type: 'search',
@@ -200,47 +200,126 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-//      links: [
-//        {
-//          title: 'Docs',
-//          items: [
-//            {
-//              label: 'Tutorial',
-//              to: '/docs/intro',
-//            },
-//          ],
-//        },
-//        {
-//          title: 'Community',
-//          items: [
-//            {
-//              label: 'Stack Overflow',
-//              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-//            },
-//            {
-//              label: 'Discord',
-//              href: 'https://discordapp.com/invite/docusaurus',
-//            },
-//            {
-//              label: 'Twitter',
-//              href: 'https://twitter.com/docusaurus',
-//            },
-//          ],
-//        },
-//        {
-//          title: 'More',
-//          items: [
-//            {
-//              label: 'Blog',
-//              to: '/blog',
-//            },
-//            {
-//              label: 'GitHub',
-//              href: 'https://github.com/facebook/docusaurus',
-//            },
-//          ],
-//        },
-//      ],
+     links: [
+       {
+         title: 'Docs',
+         items: [
+           {
+             label: 'Technology',
+             to:'/docs/category/technology',
+          },
+           {
+            label: 'Logs',
+            href: '/docs/category/errors--solustions', //
+          },
+          {
+            label: 'Life Skills',
+            href: '/docs/category/life-skills', //
+          },
+          {
+            label: 'Notes',
+            href: '/docs/category/language-learning', //
+          },
+          {
+            label: 'Projects',
+            href: '/docs/category/projects',
+          },
+         ],
+       },
+       {
+         title: 'Community',
+         items: [
+           {
+             label: 'Stack Overflow',
+             href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+           },
+           {
+             label: 'Discord',
+             href: 'https://discordapp.com/invite/docusaurus',
+           },
+           {
+             label: 'Twitter',
+             href: 'https://twitter.com/docusaurus',
+           },
+         ],
+       },
+       {
+         title: 'More',
+         items: [
+           {
+             label: 'GitHub',
+             href: 'https://github.com/facebook/docusaurus',
+           },
+           {
+            html: `
+            <a href="https://docusaurus.io" 
+            target="_blank" 
+            rel="noreferrer noopener" 
+            aria-label="Powered by Docusaurus" 
+            style="color:var(--ifm-navbar-link-color); display:flex">
+              <img src="/img/docusaurus.png" alt="Powered by Docusaurus" 
+              width="32" height="32" 
+              style="height:2rem; margin-right:.5rem" />
+              <b class="navbar__title text--truncate">Docusaurus</b>
+            </a>
+          `,
+          },
+           {
+            html: `
+            <a href="https://pages.github.com/" target="_blank" rel="noreferrer noopener" aria-label="Deploys by GitHub Pages">
+              <img src="https://pages.github.com/images/logo.svg" alt="Deploys by GitHub Pages" width="152" height="30" />
+            </a>
+          `,
+          },
+          {
+            html: `
+            <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by CloudFlare">
+              <img src="/img/cloudflare.svg" alt="Deploys by CloudFlare" width="163" height="24"/>
+            </a>
+          `,
+          },
+          {
+            html: `
+            <a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+              <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" width="114" height="51" />
+            </a>
+          `,
+          },
+           {
+            html: `
+            <a href="https://argos-ci.com" target="_blank" rel="noreferrer noopener" aria-label="Covered by Argos">
+              <img src="https://argos-ci.com/badge.svg" alt="Covered by Argos" width="133" height="20" />
+            </a>
+          `,
+          },
+         ],
+       },
+       {
+          title: 'Freind Links',
+          items: [
+            {
+              label: 'Power\'s Wiki',
+              href: 'https://wiki-power.com',
+            },
+            {
+              label: '时间笔记',
+              href: 'https://xiaomayo.cn',
+            },
+            {
+              label: 'BigZebra',
+              href: 'https://blog.bigzebra.cc',
+            },
+
+          ]
+       }
+     ],
+     logo: {
+      alt: 'Meta Open Source Logo',
+      src: '/img/meta_opensource_logo_negative.svg',
+      href: 'https://opensource.fb.com',
+      // width: 160,
+      // height: 51,
+    },
       copyright: `MIT Licensed | Copyright © 2019-${new Date().getFullYear()} Daisuke`,
     },
     prism: {
@@ -278,10 +357,10 @@ const config: Config = {
       // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
       externalUrlRegex: 'external\\.com|domain\\.com',
     // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-      replaceSearchResultPathname: {
-        from: '/docs/', // or as RegExp: /\/docs\//
-        to: '/',
-      },
+      // replaceSearchResultPathname: {
+      //   from: '/docs/', // or as RegExp: /\/docs\//
+      //   to: '/',
+      // },
       // Optional: Algolia search parameters
       searchParameters: {},
       // Optional: path for search page that enabled by default (`false` to disable it)
