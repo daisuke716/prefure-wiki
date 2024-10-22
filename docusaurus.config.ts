@@ -227,19 +227,19 @@ const config: Config = {
          ],
        },
        {
-         title: 'Community',
+         title: 'Social',
          items: [
            {
-             label: 'Stack Overflow',
-             href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+            label: 'GitHub',
+            href: 'https://github.com/daisuke716',
            },
            {
-             label: 'Discord',
-             href: 'https://discordapp.com/invite/docusaurus',
+            label: 'Instagram',
+            href: 'https://t.me/+aDhjy3F80kw3ZTE9',
            },
            {
-             label: 'Twitter',
-             href: 'https://twitter.com/docusaurus',
+             label: 'Telegram',
+             href: 'https://www.instagram.com/daisuke010716/',
            },
          ],
        },
@@ -247,8 +247,8 @@ const config: Config = {
          title: 'More',
          items: [
            {
-             label: 'GitHub',
-             href: 'https://github.com/daisuke716',
+             label: 'GitHub Repository',
+             href: 'https://github.com/daisuke716/prefure-wiki',
            },
            {
             html: `
