@@ -288,7 +288,7 @@ const config: Config = {
            {
             html: `
             <a href="https://app.argos-ci.com/daisuke716/prefure-wiki/reference" target="_blank" rel="noreferrer noopener" aria-label="Covered by Argos Visual Testing">
-              <img src="https://argos-ci.com/badge-large.svg" alt="Covered by Argos Visual Testing" width="133" height="20" />
+              <img src="https://argos-ci.com/badge-large.svg" alt="Covered by Argos Visual Testing"  />
             </a>
           `,
           },
