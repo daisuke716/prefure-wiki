@@ -10,5 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
+      - name: Install dependencies
+        run: npm ci
       - name: Upload the screenshots to Argos
         run: npm exec -- argos upload --token 657f3e691f9c77bb5cc56a5d704c4e39a316070a ./screenshots
