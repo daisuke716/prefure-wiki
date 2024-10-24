@@ -1,0 +1,14 @@
+name: Argos Tests
+
+on:
+  deployment_status:
+jobs:
+  run-e2es:
+    # Run tests only if the deployment is successful
+    if: github.event_name == 'deployment_status' && github.event.deployment_status.state == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+      - name: Upload the screenshots to Argos
+        run: npm exec -- argos upload --token 657f3e691f9c77bb5cc56a5d704c4e39a316070a ./screenshots
