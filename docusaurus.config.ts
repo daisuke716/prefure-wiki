@@ -309,7 +309,10 @@ const config: Config = {
               label: 'BigZebra',
               href: 'https://blog.bigzebra.cc',
             },
-
+            {
+              label: '不吃熊喵',
+              href: 'https://www.bcxm.fun',
+            },
           ]
        }
      ],
