@@ -234,11 +234,11 @@ const config: Config = {
             href: 'https://github.com/daisuke716',
            },
            {
-            label: 'Instagram',
+            label: 'Telegram',
             href: 'https://t.me/+aDhjy3F80kw3ZTE9',
            },
            {
-             label: 'Telegram',
+             label: 'Instagram',
              href: 'https://www.instagram.com/daisuke010716/',
            },
          ],
