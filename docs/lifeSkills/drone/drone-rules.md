@@ -18,7 +18,7 @@
 #### 飛行カテゴリー決定のフロー図
 ![飛行カテゴリー決定のフロー図](https://www.mlit.go.jp/common/001582831.png)
 
-<span style={{background-color: “#d3d3d3”, font-weight: “bold”, font-size: “108%”}}>テゴリーⅠ飛行</span>   
+<span style={{backgroundColor: “#d3d3d3”, fontWeight: “bold”, fontSize: “108%”}}>テゴリーⅠ飛行</span>   
 特定飛行に該当しないため、飛行許可・承認申請は不要です。   
 
 <span style={{background-color: “#73e673”, font-weight: “bold”, font-size: “108%”}}>カテゴリーⅡ飛行</span>   
