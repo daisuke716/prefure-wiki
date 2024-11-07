@@ -2,8 +2,8 @@
 
 在React或JSX中，```style={{ width: "600px", height: "940px" }}```使用两层花括号是因为：
 
-外层的花括号 { ... } 表示这是一个 JavaScript 表达式，而非普通的字符串。JSX语法允许你在大括号中插入 JavaScript 表达式，便于动态传值。
-内层的花括号 { width: "600px", height: "940px" } 是一个 JavaScript 对象。style 属性需要接受一个对象形式，其中每个样式都是键值对，键为样式属性名，值为样式的值。例如，width: "600px" 表示宽度600px。
+外层的花括号 ```{ ... }```表示这是一个 JavaScript 表达式，而非普通的字符串。JSX语法允许你在大括号中插入 JavaScript 表达式，便于动态传值。
+内层的花括号```{ width: "600px", height: "940px" }``` 是一个 JavaScript 对象。style 属性需要接受一个对象形式，其中每个样式都是键值对，键为样式属性名，值为样式的值。例如，width: "600px" 表示宽度600px。
 这也是为什么 JSX 中 style 的书写格式是两层花括号：外层用来包含 JavaScript 表达式，内层是实际的样式对象。
 
 
