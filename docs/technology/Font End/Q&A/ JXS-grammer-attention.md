@@ -13,7 +13,7 @@
 - 字符串值：CSS属性的值必须是字符串，如 "#ff7fff"。
 - 百分比值：像 fontSize: "108%" 这样的值也必须用引号包裹。
 
-```
+```html showLineNumbers
 <span style = "
     background-color = #d3d3d3; 
     font-weight = bold; 
@@ -22,7 +22,7 @@
 テゴリーⅠ飛行
 </span> 
 ```
-```
+```JSX showLineNumbers
 <span style = {{
     backgroundColor: "#d3d3d3", 
     fontWeight: "bold", 
