@@ -10,5 +10,9 @@
 
 
 
+## 対比
+
+
+
 > ##　引用
 > https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/kokkai/kokkai_kousei.htm
