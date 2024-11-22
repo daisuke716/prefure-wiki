@@ -47,11 +47,13 @@
 衆議院で決まった法律が参議院で反対された場合、衆議院で３分の２以上の賛成があれば参議院が反対しても法律が成立するしくみのこと。
 :::
 #### 三権分立
+日本国憲法は、国会、内閣、裁判所の三つの独立した機関が相互に抑制し合い、バランスを保つことにより、権力の濫用を防ぎ、国民の権利と自由を保障する「三権分立」の原則を定めています。
 ![](https://spaceshipearth.jp/wp-content/uploads/2024/07/image-19.png)
 
 ## 国会議事堂の様子
 ![](https://cdn.mainichi.jp/vol1/2024/10/16/20241016kei00s00s027000p/9.jpg?1)
-> ##　引用
+> ## 引用   
 > https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/kokkai/kokkai_kousei.htm
 > https://mainichi.jp/maisho/articles/20241016/kei/00s/00s/005000c
+> https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/kokkai/kokkai_sankenbunritsu.htm
 > https://spaceshipearth.jp/house-of-representatives-and-house-of-councillors/
