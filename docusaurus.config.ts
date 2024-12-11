@@ -227,19 +227,19 @@ const config: Config = {
          ],
        },
        {
-         title: 'Community',
+         title: 'Social',
          items: [
            {
-             label: 'Stack Overflow',
-             href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+            label: 'GitHub',
+            href: 'https://github.com/daisuke716',
            },
            {
-             label: 'Discord',
-             href: 'https://discordapp.com/invite/docusaurus',
+            label: 'Telegram',
+            href: 'https://t.me/+aDhjy3F80kw3ZTE9',
            },
            {
-             label: 'Twitter',
-             href: 'https://twitter.com/docusaurus',
+             label: 'Instagram',
+             href: 'https://www.instagram.com/daisuke010716/',
            },
          ],
        },
@@ -247,8 +247,8 @@ const config: Config = {
          title: 'More',
          items: [
            {
-             label: 'GitHub',
-             href: 'https://github.com/facebook/docusaurus',
+             label: 'GitHub Repository',
+             href: 'https://github.com/daisuke716/prefure-wiki',
            },
            {
             html: `
@@ -256,7 +256,7 @@ const config: Config = {
             target="_blank" 
             rel="noreferrer noopener" 
             aria-label="Powered by Docusaurus" 
-            style="color:var(--ifm-navbar-link-color); display:flex">
+            style="color:var(--ifm-navbar-link-color); display:inline-flex">
               <img src="/img/docusaurus.png" alt="Powered by Docusaurus" 
               width="32" height="32" 
               style="height:2rem; margin-right:.5rem" />
@@ -287,8 +287,8 @@ const config: Config = {
           },
            {
             html: `
-            <a href="https://argos-ci.com" target="_blank" rel="noreferrer noopener" aria-label="Covered by Argos">
-              <img src="https://argos-ci.com/badge.svg" alt="Covered by Argos" width="133" height="20" />
+            <a href="https://app.argos-ci.com/daisuke716/prefure-wiki/reference" target="_blank" rel="noreferrer noopener" aria-label="Covered by Argos Visual Testing">
+              <img src="https://argos-ci.com/badge-large.svg" alt="Covered by Argos Visual Testing"  />
             </a>
           `,
           },
@@ -309,7 +309,10 @@ const config: Config = {
               label: 'BigZebra',
               href: 'https://blog.bigzebra.cc',
             },
-
+            {
+              label: '不吃熊喵',
+              href: 'https://www.bcxm.fun',
+            },
           ]
        }
      ],

@@ -25,3 +25,6 @@ jobs:
         run: npm ci
       - name: Test build website
         run: npm run build
+
+      - name: Upload the screenshots to Argos (rgos Tests)
+        run: npm exec -- argos upload --token 657f3e691f9c77bb5cc56a5d704c4e39a316070a ./screenshots
