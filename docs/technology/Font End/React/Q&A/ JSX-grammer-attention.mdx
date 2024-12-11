@@ -1,0 +1,42 @@
+# Attentions when writing JSX
+
+These are the key points to pay attention to:
+- **Double curly braces:** In JSX, the outer braces signify a JavaScript expression, while the inner braces hold the actual style object, like```style={{ ... }}```. We'll go into details below.
+- **Style property names:** In JSX, CSS property names should use camelCase, such as backgroundColor instead of background-color.
+- **String values:** The values of CSS properties must be strings, like ```"#ff7fff"```.
+- **Percentage values:** For percentage-based values, such as fontSize: ```"108%"```, quotes are required around the value as well.
+
+#### Attribute in JSX has double curly braces
+In React or JSX, ```style={{ width: "600px", height: "940px" }}``` uses double curly braces for a specific reason:
+
+The outer curly braces ```{ ... }``` indicate a JavaScript expression, not a regular string. JSX syntax allows JavaScript expressions to be embedded within curly braces, making it possible to pass dynamic values.
+The inner curly braces ```{ width: "600px", height: "940px" }``` represent a JavaScript object. The style attribute in React requires an object, where each style is a key-value pair. For example, width: "600px" sets the width to 600px.
+This is why the style attribute in JSX has double curly braces: the outer braces signify a JavaScript expression, while the inner braces hold the actual style object.
+
+
+## Let's see the comparison
+In HTML:
+```html showLineNumbers
+<span style = "
+    background-color = #d3d3d3; 
+    font-weight = bold; 
+    font-size = 108%;
+">
+テゴリーⅠ飛行
+</span> 
+```
+In JSX:
+```JSX showLineNumbers
+<span style = {{
+    backgroundColor: "#d3d3d3", 
+    fontWeight: "bold", 
+    fontSize: "108%",
+}}>
+テゴリーⅠ飛行
+</span> 
+```
+
+> ## Reference
+> https://zenn.dev/joker/articles/bf8648cded2fc7    
+> https://ufirst.jp/memo/2021/09/reactでエラー「error-the-style-prop-expects-a-mapping-from-style-properties-to-values-not-a-string」/#google_vignette
+> https://docusaurus.io/docs/markdown-features/react
