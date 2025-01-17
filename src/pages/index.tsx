@@ -30,16 +30,16 @@ function HomepageHeader() {
         alt={
         	translate({
         		message: "Homepage image",
-        		description: 'The homepageogo3.jpg'),
+        		description: 'The homepage icon alt message',
+        	}) 
+        }
+        sources={{
+          light: useBaseUrl('/img/logo3.jpg'),
           dark: useBaseUrl('/img/logo1.png'),
         }}
       />;
 
-        <Heading as="h1" className= icon alt message',
-        	}) 
-        }
-        sources={{
-          light: useBaseUrl('/img/l"hero__title">
+        <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">
