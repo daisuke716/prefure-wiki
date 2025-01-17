@@ -11,5 +11,5 @@
 
 
 
-> ##　引用
+> ## 引用   
 >　https://www.jreast.co.jp/railway/train/

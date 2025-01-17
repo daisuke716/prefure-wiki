@@ -112,7 +112,7 @@ const config: Config = {
   ],
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/prefure-social-card.jpg',
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
@@ -132,6 +132,12 @@ const config: Config = {
           sidebarId: 'technologySidebar',
           position: 'left',
           label: 'Technology',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'toolsSidebar',
+          position: 'left',
+          label: 'Tools',
         },
         {
           type: 'dropdown',
