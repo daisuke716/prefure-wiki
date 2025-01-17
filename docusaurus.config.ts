@@ -134,6 +134,12 @@ const config: Config = {
           label: 'Technology',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'toolsSidebar',
+          position: 'left',
+          label: 'Tools',
+        },
+        {
           type: 'dropdown',
           label: 'Logs',
           position: 'left',
