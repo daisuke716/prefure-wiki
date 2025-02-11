@@ -1,0 +1,42 @@
+{
+  "title": {
+    "message": "PreFure",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "PreFure Wiki Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Technology": {
+    "message": "Technology",
+    "description": "Navbar item with label Technology"
+  },
+  "item.label.Tools": {
+    "message": "Tools",
+    "description": "Navbar item with label Tools"
+  },
+  "item.label.Logs": {
+    "message": "Logs",
+    "description": "Navbar item with label Logs"
+  },
+  "item.label.Life Skills": {
+    "message": "Life Skills",
+    "description": "Navbar item with label Life Skills"
+  },
+  "item.label.Notes": {
+    "message": "Notes",
+    "description": "Navbar item with label Notes"
+  },
+  "item.label.Projects": {
+    "message": "Projects",
+    "description": "Navbar item with label Projects"
+  },
+  "item.label.Errors & Solutions": {
+    "message": "Errors & Solutions",
+    "description": "Navbar item with label Errors & Solutions"
+  },
+  "item.label.Language Learning": {
+    "message": "Language Learning",
+    "description": "Navbar item with label Language Learning"
+  }
+}

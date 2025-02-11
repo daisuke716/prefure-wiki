@@ -1,0 +1,214 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.lifeSkills": {
+    "message": "lifeSkills",
+    "description": "The label for category lifeSkills in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.交通ルール": {
+    "message": "交通ルール",
+    "description": "The label for category 交通ルール in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ドローン": {
+    "message": "ドローン",
+    "description": "The label for category ドローン in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.logs": {
+    "message": "logs",
+    "description": "The label for category logs in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.errorSolutions": {
+    "message": "errorSolutions",
+    "description": "The label for category errorSolutions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.notes": {
+    "message": "notes",
+    "description": "The label for category notes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.languageLearning": {
+    "message": "languageLearning",
+    "description": "The label for category languageLearning in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Japanese": {
+    "message": "Japanese",
+    "description": "The label for category Japanese in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.English": {
+    "message": "English",
+    "description": "The label for category English in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.projects": {
+    "message": "projects",
+    "description": "The label for category projects in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.technology": {
+    "message": "technology",
+    "description": "The label for category technology in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Docusaurus Introduction": {
+    "message": "Docusaurus Introduction",
+    "description": "The label for category Docusaurus Introduction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Font End": {
+    "message": "Font End",
+    "description": "The label for category Font End in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.React": {
+    "message": "React",
+    "description": "The label for category React in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Q&A": {
+    "message": "Q&A",
+    "description": "The label for category Q&A in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Git": {
+    "message": "Git",
+    "description": "The label for category Git in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Linux": {
+    "message": "Linux",
+    "description": "The label for category Linux in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.tools": {
+    "message": "tools",
+    "description": "The label for category tools in sidebar tutorialSidebar"
+  },
+  "sidebar.lifeSkillSidebar.category.Life Skills": {
+    "message": "Life Skills",
+    "description": "The label for category Life Skills in sidebar lifeSkillSidebar"
+  },
+  "sidebar.lifeSkillSidebar.category.Life Skills.link.generated-index.title": {
+    "message": "Life Skills",
+    "description": "The generated-index page title for category Life Skills in sidebar lifeSkillSidebar"
+  },
+  "sidebar.lifeSkillSidebar.category.Life Skills.link.generated-index.description": {
+    "message": "Life skills here.",
+    "description": "The generated-index page description for category Life Skills in sidebar lifeSkillSidebar"
+  },
+  "sidebar.lifeSkillSidebar.category.交通ルール": {
+    "message": "交通ルール",
+    "description": "The label for category 交通ルール in sidebar lifeSkillSidebar"
+  },
+  "sidebar.lifeSkillSidebar.category.ドローン": {
+    "message": "ドローン",
+    "description": "The label for category ドローン in sidebar lifeSkillSidebar"
+  },
+  "sidebar.technologySidebar.category.Technology": {
+    "message": "Technology",
+    "description": "The label for category Technology in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Technology.link.generated-index.title": {
+    "message": "Technology",
+    "description": "The generated-index page title for category Technology in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Technology.link.generated-index.description": {
+    "message": "Technology here.",
+    "description": "The generated-index page description for category Technology in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Docusaurus Introduction": {
+    "message": "Docusaurus Introduction",
+    "description": "The label for category Docusaurus Introduction in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category Tutorial - Basics in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Tutorial - Basics in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Font End": {
+    "message": "Font End",
+    "description": "The label for category Font End in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.React": {
+    "message": "React",
+    "description": "The label for category React in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Q&A": {
+    "message": "Q&A",
+    "description": "The label for category Q&A in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Git": {
+    "message": "Git",
+    "description": "The label for category Git in sidebar technologySidebar"
+  },
+  "sidebar.technologySidebar.category.Linux": {
+    "message": "Linux",
+    "description": "The label for category Linux in sidebar technologySidebar"
+  },
+  "sidebar.toolsSidebar.category.Tools": {
+    "message": "Tools",
+    "description": "The label for category Tools in sidebar toolsSidebar"
+  },
+  "sidebar.toolsSidebar.category.Tools.link.generated-index.title": {
+    "message": "Tools",
+    "description": "The generated-index page title for category Tools in sidebar toolsSidebar"
+  },
+  "sidebar.toolsSidebar.category.Tools.link.generated-index.description": {
+    "message": "Tools here.",
+    "description": "The generated-index page description for category Tools in sidebar toolsSidebar"
+  },
+  "sidebar.errorsSolutionsSidebar.category.Errors & Solustions": {
+    "message": "Errors & Solustions",
+    "description": "The label for category Errors & Solustions in sidebar errorsSolutionsSidebar"
+  },
+  "sidebar.errorsSolutionsSidebar.category.Errors & Solustions.link.generated-index.title": {
+    "message": "Errors & Solustions",
+    "description": "The generated-index page title for category Errors & Solustions in sidebar errorsSolutionsSidebar"
+  },
+  "sidebar.errorsSolutionsSidebar.category.Errors & Solustions.link.generated-index.description": {
+    "message": "Errors and Solustions here.",
+    "description": "The generated-index page description for category Errors & Solustions in sidebar errorsSolutionsSidebar"
+  },
+  "sidebar.languageLearningSidebar.category.Language Learning": {
+    "message": "Language Learning",
+    "description": "The label for category Language Learning in sidebar languageLearningSidebar"
+  },
+  "sidebar.languageLearningSidebar.category.Language Learning.link.generated-index.title": {
+    "message": "Language Learning",
+    "description": "The generated-index page title for category Language Learning in sidebar languageLearningSidebar"
+  },
+  "sidebar.languageLearningSidebar.category.Language Learning.link.generated-index.description": {
+    "message": "Language learning notes here.",
+    "description": "The generated-index page description for category Language Learning in sidebar languageLearningSidebar"
+  },
+  "sidebar.languageLearningSidebar.category.Japanese": {
+    "message": "Japanese",
+    "description": "The label for category Japanese in sidebar languageLearningSidebar"
+  },
+  "sidebar.languageLearningSidebar.category.English": {
+    "message": "English",
+    "description": "The label for category English in sidebar languageLearningSidebar"
+  },
+  "sidebar.projectsSidebar.category.Projects": {
+    "message": "Projects",
+    "description": "The label for category Projects in sidebar projectsSidebar"
+  },
+  "sidebar.projectsSidebar.category.Projects.link.generated-index.title": {
+    "message": "Projects",
+    "description": "The generated-index page title for category Projects in sidebar projectsSidebar"
+  },
+  "sidebar.projectsSidebar.category.Projects.link.generated-index.description": {
+    "message": "Projects here.",
+    "description": "The generated-index page description for category Projects in sidebar projectsSidebar"
+  }
+}
