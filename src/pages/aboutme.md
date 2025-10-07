@@ -5,11 +5,11 @@
 **Place of Date:** 2001/07/16
 
 ## Education Background
-### 2019~2023: Shaanxi Normal University (Bachelor of Science)
-School of Computer Science - Data Science and Artifical Intelligence
-
 ### 2025~2027: Meiji University (Master of Engineering)
 Graduate School of Advanced Mathematical Sciences - Network Desigin
+
+### 2019~2023: Shaanxi Normal University (Bachelor of Science)
+School of Computer Science - Data Science and Artifical Intelligence
 
 
 ## Paper
