@@ -61,6 +61,11 @@ function HomepageHeader() {
             to="https://resume.prefure.com">
             <Translate>My resume</Translate>
           </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/aboutme">
+            <Translate>About me</Translate>
+          </Link>
         </div>
 	   <CodeBlock
 	   	className="hp-codeBlock"
