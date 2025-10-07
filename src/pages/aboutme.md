@@ -1,7 +1,7 @@
 # Profile
 ## Personal Information
-**Name:** Daisuke AMANO (Zian GU)
-**Place of Birth:** Shanghai, China
+**Name:** Daisuke AMANO (Zian GU)  
+**Place of Birth:** Shanghai, China  
 **Place of Date:** 2001/07/16
 
 ## Education Background
