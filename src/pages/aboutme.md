@@ -4,3 +4,10 @@
 
 # Membership of Academic Societies
 1. The Robotics Society of Japan
+
+# Resume
+Click [here](https://resume.prefure.com) to visit my resume.   
+:::info
+User: prefure
+Password: 3141
+:::

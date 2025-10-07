@@ -56,11 +56,11 @@ function HomepageHeader() {
             to="https://nav.prefure.com">
             <Translate>Site Navigation</Translate>
           </Link>
-          <Link
+          {/* <Link
             className="button button--secondary button--lg"
             to="https://resume.prefure.com">
             <Translate>My resume</Translate>
-          </Link>
+          </Link> */}
           <Link
             className="button button--secondary button--lg"
             to="/aboutme">
