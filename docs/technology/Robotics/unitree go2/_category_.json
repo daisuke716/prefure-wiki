@@ -1,6 +1,10 @@
 {
   "label": "Go2 SDK開発ガイド",
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "title": "Guide overview"
+  },
+  "customProps": {
+    "description": "This description can be used"
   }
 }
