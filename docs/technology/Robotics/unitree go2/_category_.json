@@ -1,8 +1,9 @@
 {
-  "label": "Go2 SDK開発ガイド",
+  "label": "Go2 SDK Development Guide",
   "link": {
     "type": "generated-index",
-    "title": "Guide overview"
+    "title": "Go2 SDK開発ガイド",
+    "description": "Life skills here."
   },
   "customProps": {
     "description": "This description can be used"
