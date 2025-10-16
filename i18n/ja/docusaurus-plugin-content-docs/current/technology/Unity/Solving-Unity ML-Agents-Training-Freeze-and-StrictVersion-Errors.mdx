@@ -1,0 +1,28 @@
+# Solving Unity ML-Agents Training Freeze and StrictVersion Errors
+
+Recently, while setting up a training environment using Unity ML-Agents 3.0.0 and Python ML-Agents 1.1.0, I encountered a series of frustrating issues.
+At first, training would start normally after pressing the Play button in Unity, but as soon as I switched to another window (like the terminal or a browser), Unity would freeze, and the Python console would throw an error:
+
+`AttributeError: 'StrictVersion' object has no attribute 'version'`
+Unity would become unresponsive, and training could not proceed.
+
+## Problem Analysis
+
+After some careful investigation, I found that the root cause was Unity's default behavior of pausing the game when it loses window focus.
+
+By default, Unity Editor suspends rendering and physics calculations when it is not the active window.
+However, ML-Agents requires continuous, uninterrupted communication between Unity and the Python API during training.
+If Unity freezes (even briefly), the Python side interprets this as a communication breakdown and crashes with errors like 'StrictVersion' object has no attribute 'version'.
+
+## Solution
+
+The solution is straightforward:
+
+✅ Enable "Run In Background" in Unity's Player Settings so that Unity continues executing even when it is not the active window.
+
+## Steps:
+1. Open Unity Editor.
+2. Go to `Edit → Project Settings → Player`.
+3. Expand `Resolution and Presentation`.
+4. Find and enable the checkbox for `Run In Background`.
+5. This ensures that Unity keeps running smoothly in the background, maintaining a live connection with the Python API during training.
