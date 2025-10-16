@@ -1,8 +1,8 @@
 {
-  "label": "アプリケーション開発",
+  "label": "Application Development",
   "link": {
     "type": "generated-index",
-    "title": "アプリケーション開発",
-    "description": "アプリケーション開発です。"
+    "title": "Application Development",
+    "description": "This chapter will introduce how users can set up an environment, configure parameters, download and install SDK, and create their own application and run it successfully after receiving EDU-Go2. You can choose corresponding content references at different development stages to quickly familiarize yourself with the SDK and Go2."
   }
 }
