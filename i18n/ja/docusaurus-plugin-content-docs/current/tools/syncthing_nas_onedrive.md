@@ -1,4 +1,4 @@
-# Building a Private OneDrive with Syncthing, Centered on NAS via Docker Desktop
+# Syncthing -- Building a Private OneDrive, Centered on NAS via Docker Desktop
 
 If you want a self-hosted, cross-platform synchronization solution like OneDrive, Syncthing is a powerful tool. This guide walks through how I used **Docker Desktop** and a **NAS** as the central hub to keep documents synchronized across Windows, macOS, and other devices.
 
@@ -123,5 +123,13 @@ docker run -d \
 Now I have a fully private, real-time, cross-device syncing system that works just like OneDrive — but it’s 100% under my control.
 
 Happy syncing!
+
+
+::: tip
+If you file always automatically gain a `.temp` suffix, or there's a ```
+Error renaming "... .ipynb.tmp" to "... .ipynb" while normalizing UTF8 encoding: file does not exist. You will want to rename this file back manually.
+```
+warning on your control panel, please refer to [this blog](logs/errorSolutions/fix-syncthing-autonormalize.md)
+:::
 
 > Written by daisuke — powered by NAS + Docker + Syncthing 🚀
