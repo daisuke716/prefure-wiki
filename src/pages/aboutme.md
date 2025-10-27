@@ -11,6 +11,8 @@ Graduate School of Advanced Mathematical Sciences - Network Desigin
 ### 2019~2023: Shaanxi Normal University (Bachelor of Science)
 School of Computer Science - Data Science and Artifical Intelligence
 
+### 2016~2019: Shanghai Jinshan High School
+
 
 ## Paper
 1. [天野大輔，森岡一幸: 任意の目的地に対する Map-Free 強化学習ナビゲーションの安定化に関する研究, 第43回日本ロボット学会学術講演会 (RSJ2025).](#)
