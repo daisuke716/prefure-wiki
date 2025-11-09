@@ -119,13 +119,12 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-    	 hideOnScroll: true,
+    	hideOnScroll: true,
       title: 'PreFure',
       logo: {
         alt: 'PreFure Wiki Logo',
         src: 'img/logo2.jpg',
-      },
-      
+      },  
       items: [
         {
           type: 'docSidebar',
@@ -175,6 +174,11 @@ const config: Config = {
         	position: 'left',
         	type: 'docSidebar',
         	sidebarId: 'projectsSidebar',
+        },
+        {
+        	label: 'Bio',
+        	position: 'left',
+        	to: '/aboutme',
         },
 
 	   {

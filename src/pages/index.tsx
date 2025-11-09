@@ -64,7 +64,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/aboutme">
-            <Translate>About me</Translate>
+            <Translate>Bio</Translate>
           </Link>
         </div>
 	   <CodeBlock
