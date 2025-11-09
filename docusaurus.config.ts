@@ -244,6 +244,10 @@ const config: Config = {
             href: 'https://github.com/daisuke716',
            },
            {
+            label: 'Linkedin',
+            href: 'https://www.linkedin.com/in/大輔-天野-161203a2',
+           },
+           {
             label: 'Telegram',
             href: 'https://t.me/+aDhjy3F80kw3ZTE9',
            },
@@ -322,6 +326,10 @@ const config: Config = {
             {
               label: '不吃熊喵',
               href: 'https://www.bcxm.fun',
+            },
+            {
+              label: 'Chenhao Li',
+              href: 'https://breadli428.github.io',
             },
           ]
        }
