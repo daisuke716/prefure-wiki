@@ -54,7 +54,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://nav.prefure.com">
-            <Translate>Site Navigation</Translate>
+            <Translate>Site Navigation 🚧</Translate>
           </Link>
           {/* <Link
             className="button button--secondary button--lg"

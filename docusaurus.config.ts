@@ -169,12 +169,12 @@ const config: Config = {
             },
            ],
         },
-        {
-        	label: 'Projects',
-        	position: 'left',
-        	type: 'docSidebar',
-        	sidebarId: 'projectsSidebar',
-        },
+        // {
+        // 	label: 'Projects',
+        // 	position: 'left',
+        // 	type: 'docSidebar',
+        // 	sidebarId: 'projectsSidebar',
+        // },
         {
         	label: 'Bio',
         	position: 'left',
