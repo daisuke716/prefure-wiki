@@ -16,7 +16,7 @@ School of Computer Science - Data Science and Artifical Intelligence
 
 ## Papers
 1. [天野大輔，森岡一幸: 任意の目的地に対する Map-Free 強化学習ナビゲーションの安定化に関する研究, 第43回日本ロボット学会学術講演会 (RSJ2025).](/papers/RSJ2025.pdf)
-2. [天野大輔，森岡一幸: Map-Free 強化学習ナビゲーションの Sim2Real による実環境での走行, 第26回計測自動制御学会システムインテグレーション部門講演会(SI2025).](/papers/SI2025.pdf) 　 　　　[＜ー＜ポスター＞ー＞](/papers/SI2025_poster.pdf)
+2. [天野大輔，森岡一幸: Map-Free 強化学習ナビゲーションの Sim2Real による実環境での走行, 第26回計測自動制御学会システムインテグレーション部門講演会(SI2025).](/papers/SI2025.pdf) 　 　　　[👉📜 ポスター👈](/papers/SI2025_poster.pdf)
 3. [Daisuke Amano, Kazuyuki Morioka: Vision-Based Sim2Real Transfer of Map-Free Reinforcement Learning Navigation with Semantic Segmentation and Multi-Sensor Fusion, AROB-ISBC 2026.](/papers/AROB2026.pdf)
 
 ## Membership of Academic Societies

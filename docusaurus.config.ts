@@ -179,7 +179,7 @@ const config: Config = {
         {
         	label: 'Bio',
         	position: 'left',
-        	to: '/aboutme',  // /src/pages/aboutme.md
+        	to: '/bio',  // /src/pages/bio.md
         },
 
 	   {
@@ -219,6 +219,10 @@ const config: Config = {
              label: 'Technology',
              to:'/docs/category/technology',
           },
+          {
+             label: 'Tools',
+             to:'/docs/category/tools',
+          },
            {
             label: 'Logs',
             href: '/docs/category/errors--solustions', //
@@ -234,6 +238,10 @@ const config: Config = {
           {
             label: 'Projects',
             href: '/docs/category/projects',
+          },
+          {
+            label: 'Bio',
+            href: '/bio',
           },
          ],
        },
