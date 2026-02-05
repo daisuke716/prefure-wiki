@@ -178,7 +178,7 @@ const config: Config = {
         {
         	label: 'Bio',
         	position: 'left',
-        	to: '/aboutme',
+        	to: '/aboutme',  // /src/pages/aboutme.md
         },
 
 	   {
