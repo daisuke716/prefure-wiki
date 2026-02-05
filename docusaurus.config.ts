@@ -17,6 +17,7 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 //  baseUrl: '/prefure-wiki/',
+  // staticDirectories: ['static'],
 
   // GitHub pages deployment config.
   // If you aren't using GitHub Pages, you don't need these.
