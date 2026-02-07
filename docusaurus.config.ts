@@ -241,7 +241,7 @@ const config: Config = {
           },
           {
             label: 'Bio',
-            href: '/bio',
+            to: '/bio',
           },
          ],
        },
