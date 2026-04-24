@@ -340,6 +340,10 @@ const config: Config = {
               label: 'Chenhao Li',
               href: 'https://breadli428.github.io',
             },
+            {
+              label: 'Xiaozhong Ji',
+              href: 'https://jixiaozhong.github.io',
+            },
           ]
        }
      ],
