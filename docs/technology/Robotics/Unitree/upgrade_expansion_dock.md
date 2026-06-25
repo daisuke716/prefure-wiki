@@ -11,8 +11,6 @@ The Unitree Go2 Expansion Dock comes in two configurations, each equipped with a
 | CPU          | 6-core Arm Cortex-A78AE   | 8-core Arm Cortex-A78AE |
 | Max TDP      | 15W                       | 25W                     |
 
-Two Expansion Dock variants
-
 The NX 16G delivers **2.5×** more AI inference performance than the Nano 8G, making it better suited for running more complex perception or control models on the robot. This guide documents the complete procedure for replacing the Nano 8G module with the NX 16G.
 
 Since a significant amount of development work had already been done on the Nano 8G (environment setup, dependencies, custom code, etc.), reinstalling everything from scratch on the NX 16G was not desirable. The core approach of this guide is therefore: **keep the original Nano 8G SSD and OS intact, and only downgrade the NX 16G's QSPI firmware and update a few config files so that the existing system can drive the NX 16G hardware correctly**.
@@ -72,6 +70,8 @@ For the exact QSPI-only flash command, refer to the following guide (it uses a J
 > Reference: [GR00T JetPack Flashing Guide](https://nvlabs.github.io/GR00T-WholeBodyControl/references/jetpack6.html)
 
 Consult your carrier board's documentation to confirm the exact method for entering Recovery Mode and the correct cable connections.
+
+Once the QSPI firmware downgrade is complete, insert the NX 16G module into the Unitree Expansion Dock and connect the original M.2 SSD — the system will boot successfully at this point. You will be able to see **16 GB of memory** and **8 CPU cores**, but the module identification and power management modes will still reflect the Nano 8G configuration.
 
 ---
 

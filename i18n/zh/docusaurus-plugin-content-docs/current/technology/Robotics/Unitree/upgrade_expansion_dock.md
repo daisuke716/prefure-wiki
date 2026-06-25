@@ -11,8 +11,6 @@ Unitree Go2 的拓展坞有两种配置版本，分别搭载不同的 NVIDIA Jet
 | CPU      | 6 核 Arm Cortex-A78AE                                                                                      | 8 核 Arm Cortex-A78AE         |
 | 最大功耗 | 15W                                                                                                        | 25W                           |
 
-两种 Expansion Dock 版本
-
 NX 16G 版本在 AI 推理算力上比 Nano 8G 提升了 **2.5 倍**，适合在机器人上运行更复杂的感知或控制模型。本文记录将 Nano 8G 模块替换为 NX 16G 模块的完整流程。
 
 由于此前已在 Nano 8G 上进行了大量开发工作（环境配置、依赖安装、自定义代码等），不希望在 NX 16G 上从零重装系统，因此本文的核心思路是：**保留 Nano 8G 的原有 SSD 和系统，仅通过降级 NX 16G 的 QSPI firmware 并修改少量配置文件，使其能够驱动 NX 16G 硬件正常工作**。
@@ -72,6 +70,8 @@ NVIDIA 官方文档明确指出，Jetson Linux 35.x（JetPack 5.x）与 Jetson L
 > 参考：[GR00T JetPack 刷机参考](https://nvlabs.github.io/GR00T-WholeBodyControl/references/jetpack6.html)
 
 刷机时需查阅所用 carrier board 自身的使用说明，以确认进入 Recovery 模式的方式和线缆连接方法。
+
+QSPI firmware 降级完成后，将 NX 16G 模块插入 Unitree Expansion Dock 并接上原来的 M.2 SSD，此时已经可以正常进入系统。系统能够识别到 **16GB 内存**和 **8 核 CPU**，但对模块的型号识别和电源管理模式仍然是 Nano 8G 的配置。
 
 ---
 
