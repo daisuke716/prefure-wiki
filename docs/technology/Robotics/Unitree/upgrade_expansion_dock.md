@@ -13,6 +13,8 @@ The Unitree Go2 Expansion Dock comes in two configurations, each equipped with a
 
 The NX 16G delivers **2.5×** more AI inference performance than the Nano 8G, making it better suited for running more complex perception or control models on the robot. This guide documents the complete procedure for replacing the Nano 8G module with the NX 16G.
 
+It is worth noting that on the Unitree official store, the 100 TOPS expansion dock costs **$1,574** more than the 40 TOPS version, while a complete Jetson Orin NX 16G kit can be purchased separately for around **$954**. Buying the 40 TOPS version and upgrading it yourself is therefore a significantly more cost-effective option.
+
 Since a significant amount of development work had already been done on the Nano 8G (environment setup, dependencies, custom code, etc.), reinstalling everything from scratch on the NX 16G was not desirable. The core approach of this guide is therefore: **keep the original Nano 8G SSD and OS intact, and only downgrade the NX 16G's QSPI firmware and update a few config files so that the existing system can drive the NX 16G hardware correctly**.
 
 ---
