@@ -122,8 +122,8 @@ The `FDT` line in `/boot/extlinux/extlinux.conf` tells the kernel which DTB to l
 | -------------- | ----------------------------------------------------------------------------------- |
 | **File**   | `/boot/extlinux/extlinux.conf`                                                      |
 | **Backup** | Back up as `/boot/extlinux/extlinux.conf.nano8g.bak`                                |
-| **Before** | `FDT /boot/dtb/kernel_tegra234-p3767-**0003**-p3768-0000-a0.dtb` (Nano 8G)         |
-| **After**  | `FDT /boot/dtb/kernel_tegra234-p3767-**0000**-p3768-0000-a0.dtb` (NX 16G)          |
+| **Before** | `FDT /boot/dtb/kernel_tegra234-p3767-0003-p3768-0000-a0.dtb` (Nano 8G)         |
+| **After**  | `FDT /boot/dtb/kernel_tegra234-p3767-0000-p3768-0000-a0.dtb` (NX 16G)          |
 
 ```bash
 sudo cp /boot/extlinux/extlinux.conf /boot/extlinux/extlinux.conf.nano8g.bak

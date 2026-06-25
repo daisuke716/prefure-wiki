@@ -122,8 +122,8 @@ sudo cp /media/unitree/7073f027-.../boot/dtb/kernel_tegra234-p3767-0000-p3768-00
 | -------------- | --------------------------------------------------------------------------------- |
 | **ファイル** | `/boot/extlinux/extlinux.conf`                                                  |
 | **バックアップ** | `/boot/extlinux/extlinux.conf.nano8g.bak` としてバックアップ                |
-| **変更前** | `FDT /boot/dtb/kernel_tegra234-p3767-**0003**-p3768-0000-a0.dtb`（Nano 8G）     |
-| **変更後** | `FDT /boot/dtb/kernel_tegra234-p3767-**0000**-p3768-0000-a0.dtb`（NX 16G）      |
+| **変更前** | `FDT /boot/dtb/kernel_tegra234-p3767-0003-p3768-0000-a0.dtb`（Nano 8G）     |
+| **変更後** | `FDT /boot/dtb/kernel_tegra234-p3767-0000-p3768-0000-a0.dtb`（NX 16G）      |
 
 ```bash
 sudo cp /boot/extlinux/extlinux.conf /boot/extlinux/extlinux.conf.nano8g.bak
